@@ -47,7 +47,7 @@ These insights can support smarter infrastructure planning, cost optimization, a
 
 Shows how cost scales with duration, grouped by vehicle and charger type.
 
-![Charging Duration vs Cost](images/charging_cost_duration.png)
+![Charging Duration vs Cost](https://github.com/Srikar109755/EV-Charging-Analysis/blob/main/Images/Charging_Cost_Vs_Duration.png)
 
 ---
 
@@ -55,7 +55,7 @@ Shows how cost scales with duration, grouped by vehicle and charger type.
 
 Captures hourly usage patterns across different charging station locations.
 
-![Station Usage](images/station_usage.png)
+![Station Usage](https://github.com/Srikar109755/EV-Charging-Analysis/blob/main/Images/Time_vs_Charging_Station.png)
 
 ---
 
@@ -63,7 +63,7 @@ Captures hourly usage patterns across different charging station locations.
 
 Highlights energy efficiency relative to distance driven since the last charge.
 
-![Energy vs Distance](images/energy_vs_distance.png)
+![Energy vs Distance](https://github.com/Srikar109755/EV-Charging-Analysis/blob/main/Images/Energy_Consumed_vs_Dis_Driven.png)
 
 ---
 
