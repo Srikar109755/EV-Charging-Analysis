@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ### 3. Launch the Notebook
 
 ```bash
-jupyter notebook EC22B1076_84.ipynb
+jupyter notebook ev_charging_analysis.ipynb
 ```
 ---
 
